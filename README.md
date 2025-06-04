@@ -98,4 +98,4 @@ This system was designed to automate weekly attendance tracking and flagging in 
 
 ## 📌 Status and Future Direction
 
-This system is in full production use internally. Scripts are generalized, but code is not published due to dependency on internal file structure, SharePoint routing, and student-level data. Logic is preserved here for architecture reference and hiring review.
+This system is in full production use internally. The logic has been generalized and published for architecture reference, systems hiring review, and demonstration of applied data engineering in K–12 environments.
